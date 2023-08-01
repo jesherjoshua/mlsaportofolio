@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "A Sophomore @VIT Chennai with a solid background in data science and machine learning, and posses a deep understanding of the technical skills and techniques needed to analyze and interpret complex data sets, I am an innovative perpetual student with a passion for solving complex problems.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Data Science",
+  "Machine Learning",
+  "Deep Learning",
+  "Computer Vision",
+  "Big Data Analytics",
+  "Web Dev",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "With my combination of technical skill, problem-solving abilities and creativity, I am determined to make a significant impact in any field I choose to pursue.";
 
 const About = () => {
   return (
